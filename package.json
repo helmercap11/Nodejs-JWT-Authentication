@@ -1,0 +1,22 @@
+{
+  "name": "Nodejs-JWT-Authentication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Helmer Capassola",
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "JWT",
+    "Sequelize",
+    "MySQL",
+    "Authentication"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.7.0",
+    "xpress": "^2.4.6"
+  }
+}
